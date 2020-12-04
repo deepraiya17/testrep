@@ -1,5 +1,5 @@
 func sum(x,y):
-	return null;
+	return x+y;
 
 func multi(x,y):
 	return null;
